@@ -1,0 +1,58 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+
+h1{
+    color:#0000FF;
+    font-size: 50px;
+}
+
+h2{
+    color:#000000;
+    font-size: 30px;
+}
+button{
+	padding: 12px 28px;
+  font-size: 16px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: black;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 9px #999;
+  background-color: white; 
+  border: 2px solid #4CAF50;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+container {
+   text-align:center;
+} 
+my-button {
+   
+    display: inline-block;
+    margin: 20px; 
+}
+
+table, th, td {
+  border: 1px solid;
+}
+
+input[type=text] {
+  padding: 6px;
+  margin-top: 8px;
+  margin-right: 16px;
+  font-size: 17px;
+}
